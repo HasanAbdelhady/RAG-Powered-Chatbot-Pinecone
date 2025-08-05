@@ -142,10 +142,9 @@ Modify the `main.py` to use different models or providers supported by Groq.
 
 ### Common Issues
 
-1. **Missing Dependencies**: Make sure to install `pdfminer.six` if you encounter PDF extraction errors
-2. **API Key Errors**: Verify your `.env` file is properly formatted and contains valid API keys
-3. **Index Creation**: First run may take time to process the PDF and create the vector index
-4. **Memory Issues**: For large PDFs, consider reducing chunk size or using a more powerful machine
+1. **API Key Errors**: Verify your `.env` file is properly formatted and contains valid API keys
+2. **Index Creation**: First run may take time to process the PDF and create the vector index
+3. **Memory Issues**: For large PDFs, consider reducing chunk size or using a more powerful machine
 
 ### Warning Suppression
 
