@@ -45,7 +45,6 @@ A RAG (Retrieval Augmented Generation) chatbot that can answer questions about H
 3. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
-   pip install pdfminer.six  # Missing from requirements.txt
    ```
 
 ## Environment Setup
