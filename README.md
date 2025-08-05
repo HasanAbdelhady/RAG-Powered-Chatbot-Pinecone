@@ -155,8 +155,8 @@ The code suppresses FutureWarning messages from the sentence-transformers librar
 
 ## License
 
-[Add your license information here]
+Apache 2.0
 
 ## Contributing
 
-[Add contribution guidelines here]
+Fork the repo and have fun!
