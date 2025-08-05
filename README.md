@@ -29,8 +29,7 @@ A RAG (Retrieval Augmented Generation) chatbot that can answer questions about H
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
-   cd personal-chatbot
+   git clone https://github.com/HasanAbdelhady/RAG-Powered-Chatbot-Pinecone.git
    ```
 
 2. **Create and activate virtual environment**:
